@@ -1,3 +1,1 @@
-#!/bin/bash
-This is my third alx repo.
-
+Projects completed for ALX system engineering courses.
