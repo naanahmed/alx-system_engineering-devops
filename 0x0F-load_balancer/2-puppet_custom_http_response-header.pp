@@ -21,7 +21,7 @@ package { 'nginx':
 
 file { '/var/www/html/index.html':
   ensure  => 'present',
-  content => 'Holberton School',
+  content => 'School',
   mode    => '0644',
   owner   => 'root',
   group   => 'root'
